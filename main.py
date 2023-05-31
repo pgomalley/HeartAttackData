@@ -3,7 +3,7 @@
 """
 Created on Mon Apr 10 10:07:31 2023
 
-@author: patrickomalley and Will Ciannella
+@author: patrickomalley
 """
 
 from utilities import *
